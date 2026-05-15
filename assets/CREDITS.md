@@ -8,6 +8,9 @@ Cada activo embebido o descargado se registra aquí. Imágenes con licencia comp
 |---|---|---|---|---|---|
 | salis.jpg | 05, 07, 08, 12 | Rub86, vía Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Silvia_Salis_2025.jpg | 2025-03-15 | **CC BY 4.0** — "Silvia Salis (2025), foto de Rub86, CC BY 4.0, vía Wikimedia Commons" |
 | meloni.jpg | 05, 12 | Governo italiano (governo.it), vía Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Giorgia_Meloni_Official_2023.jpg | 2023 | **CC BY 3.0 IT** — "Giorgia Meloni, retrato oficial 2023, Governo italiano, CC BY 3.0 IT" |
+| sartori.jpg | 03 | Rankawito, vía Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Giovannisartori_(cropped).JPG | 2009 | **Dominio público** — "Giovanni Sartori, foto de Rankawito (dominio público)" |
+| tursi.jpg | 02, 13, 14 | Twice25 &amp; Rinina25, vía Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Palazzo_Doria_Tursi_(Genova)_3.jpg | 2006 | **CC BY-SA 3.0** — "Palazzo Doria Tursi (Génova), Twice25 &amp; Rinina25, CC BY-SA 3.0" |
+| matteotti.jpg | 08, 15 | Postcrosser, vía Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Piazza_Matteotti_Genova.jpg | 2013 | **CC BY-SA 3.0** — "Piazza Matteotti (Génova), Postcrosser, CC BY-SA 3.0" |
 | placeholder.jpg | fallback neutro | placehold.co | https://placehold.co | — | Generador de placeholders (uso libre) |
 
 ## Embeds (desde la fuente oficial)

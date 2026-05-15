@@ -9,3 +9,12 @@ Reveal.initialize({
   controls: true,
   progress: true,
 });
+
+/* Render del gráfico de dicotomías al mostrarse su escena. */
+function renderChartIn(slide) {
+  if (!slide) return;
+  var box = slide.querySelector('[data-render-on-show]');
+  if (box && !box.dataset.done) { window.renderDichotomies(box); box.dataset.done = "1"; }
+}
+Reveal.on('slidechanged', function (e) { renderChartIn(e.currentSlide); });
+Reveal.on('ready', function (e) { renderChartIn(e.currentSlide); });

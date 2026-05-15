@@ -62,8 +62,9 @@
 .chart{display:flex;flex-direction:column;gap:10px;margin:8px 0 20px}
 .chart-row{display:grid;grid-template-columns:230px 1fr;align-items:center;gap:14px;font-size:15px;color:var(--ink-dim)}
 .chart-track{position:relative;height:22px;background:var(--bg-sober-2);border-radius:4px;overflow:hidden}
-.chart-fill{position:absolute;inset:0 auto 0 0;background:linear-gradient(90deg,var(--accent),var(--violet));width:0;transition:width 1s ease}
-.chart-fill .pct{position:absolute;right:8px;top:50%;transform:translateY(-50%);font-size:12px;color:#fff;font-weight:700}
-.chart-row.is-key .chart-fill{box-shadow:0 0 0 2px var(--accent)}
+.chart-fill{height:100%;width:0;background:linear-gradient(90deg,var(--accent),var(--violet));border-radius:4px;transition:width 1s ease;position:relative}
+.chart-fill .pct{position:absolute;right:8px;top:50%;transform:translateY(-50%);font-size:12px;color:#fff;font-weight:700;white-space:nowrap}
+.chart-row.is-key span{color:var(--accent);font-weight:700}
+.chart-row.is-key .chart-fill{background:linear-gradient(90deg,#ff2db8,#ff8ad8)}
 
 @media print{ .scene--detonante::after{display:none} }

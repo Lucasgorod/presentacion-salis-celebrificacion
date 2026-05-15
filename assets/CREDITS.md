@@ -9,6 +9,7 @@ Cada activo embebido o descargado se registra aquí. Imágenes con licencia comp
 | salis.jpg | 05, 12, fallback de embeds | Rub86, vía Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Silvia_Salis_2025.jpg | 2025-03-15 | **CC BY 4.0** — "Silvia Salis (2025), Rub86, CC BY 4.0, Wikimedia Commons" |
 | meloni.jpg | 12 | Governo italiano (governo.it), vía Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Giorgia_Meloni_Official_2023.jpg | 2023 | **CC BY 3.0 IT** — "Giorgia Meloni, retrato oficial 2023, Governo italiano, CC BY 3.0 IT" |
 | salis-atleta.webp | 05 | Foto de competición (lanzamiento de martillo); prensa | archivo provisto por el usuario | — | Uso académico; licencia no conocida |
+| salis-vanityfair.png | 11 | Entrevista/portada en Vanity Fair Italia | Vanity Fair Italia (captura) | — | 2026 | Uso académico; prensa con copyright |
 | salis-tatuaje.jpg | 08 | Tatuaje de los cinco aros olímpicos | sportfair.it | https://www.sportfair.it/wp-content/uploads/2015/08/silvia-salis3.jpg | 2015 | Uso académico; prensa con copyright |
 | placeholder.jpg | fallback neutro (01, 09) | placehold.co | https://placehold.co | — | Generador de placeholders (uso libre) |
 
@@ -21,7 +22,6 @@ Cada activo embebido o descargado se registra aquí. Imágenes con licencia comp
 | 07 | Perfil de Instagram (el retrato curado) | Instagram @silviasalis (oficial) | https://www.instagram.com/silviasalis/ | — |
 | 13 | Publicación personal de Salis | Instagram @silviasalis (oficial) | https://www.instagram.com/p/DKJ5nxys9zr/ | 2025 |
 | 10 | TikTok institucional de Salis | TikTok @silvia_salis_sindaca (oficial) | https://www.tiktok.com/@silvia_salis_sindaca | 2025– |
-| 11 | Foto de la polémica: Salis con los Manolo Blahnik | Instagram @silviasalis (oficial) | https://www.instagram.com/p/DW_-xd3DA6B/ | 2026-04 |
 
 ## Citas de prensa / fuentes textuales (breves, atribuidas)
 

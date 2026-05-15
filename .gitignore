@@ -1,0 +1,12 @@
+# Brainstorm / acompañante visual (scratch local)
+.superpowers/
+
+# Paper con copyright — uso local, no publicar en repo público
+*.pdf
+
+# Notas privadas de trabajo
+Guion_Salis_Celebrificacion_v2_1.md
+
+# OS
+.DS_Store
+Thumbs.db

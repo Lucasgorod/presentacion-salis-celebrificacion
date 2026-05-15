@@ -45,6 +45,8 @@
     }
   });
   stage.addEventListener('click', function (e) {
+    // No navegar si el clic es sobre un embed/enlace interactivo.
+    if (e.target.closest('.videobox, .mframe, .layer, iframe, a, .embed-fallback')) return;
     var r = stage.getBoundingClientRect();
     show(i + ((e.clientX - r.left) < r.width / 2 ? -1 : 1));
   });

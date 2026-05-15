@@ -6,7 +6,7 @@ Cada activo embebido o descargado se registra aquí. Imágenes con licencia comp
 
 | Archivo | Escenas | Fuente / autor | URL | Fecha | Licencia / atribución |
 |---|---|---|---|---|---|
-| salis.jpg | 02, 05, 12, fallback de embeds | Rub86, vía Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Silvia_Salis_2025.jpg | 2025-03-15 | **CC BY 4.0** — "Silvia Salis (2025), Rub86, CC BY 4.0, Wikimedia Commons" |
+| salis.jpg | 05, 12, fallback de embeds | Rub86, vía Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Silvia_Salis_2025.jpg | 2025-03-15 | **CC BY 4.0** — "Silvia Salis (2025), Rub86, CC BY 4.0, Wikimedia Commons" |
 | meloni.jpg | 12 | Governo italiano (governo.it), vía Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Giorgia_Meloni_Official_2023.jpg | 2023 | **CC BY 3.0 IT** — "Giorgia Meloni, retrato oficial 2023, Governo italiano, CC BY 3.0 IT" |
 | placeholder.jpg | fallback neutro (01, 09) | placehold.co | https://placehold.co | — | Generador de placeholders (uso libre) |
 

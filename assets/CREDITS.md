@@ -6,11 +6,9 @@ Cada activo embebido o descargado se registra aquí. Imágenes con licencia comp
 
 | Archivo | Escenas | Fuente / autor | URL | Fecha | Licencia / atribución |
 |---|---|---|---|---|---|
-| salis.jpg | 05, 07, 12 | Rub86, vía Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Silvia_Salis_2025.jpg | 2025-03-15 | **CC BY 4.0** — "Silvia Salis (2025), Rub86, CC BY 4.0, Wikimedia Commons" |
+| salis.jpg | 02, 05, 12, 14 | Rub86, vía Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Silvia_Salis_2025.jpg | 2025-03-15 | **CC BY 4.0** — "Silvia Salis (2025), Rub86, CC BY 4.0, Wikimedia Commons" |
+| salis2.png | 03, 13, 15 | "Italia", vía Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Silvia_Salis_(Feb_2026).png | 2026-02 | **CC BY 4.0** — "Silvia Salis (2026), Wikimedia Commons" (licencia declarada CC BY 4.0; revisión de Commons pendiente) |
 | meloni.jpg | 12 | Governo italiano (governo.it), vía Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Giorgia_Meloni_Official_2023.jpg | 2023 | **CC BY 3.0 IT** — "Giorgia Meloni, retrato oficial 2023, Governo italiano, CC BY 3.0 IT" |
-| sartori.jpg | 03 | Rankawito, vía Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Giovannisartori_(cropped).JPG | 2009 | **Dominio público** — "Giovanni Sartori, Rankawito (dominio público)" |
-| tursi.jpg | 02, 13, 14 | Twice25 &amp; Rinina25, vía Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Palazzo_Doria_Tursi_(Genova)_3.jpg | 2006 | **CC BY-SA 3.0** — "Palazzo Doria Tursi (Génova), Twice25 &amp; Rinina25, CC BY-SA 3.0" |
-| matteotti.jpg | 15 | Postcrosser, vía Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Piazza_Matteotti_Genova.jpg | 2013 | **CC BY-SA 3.0** — "Piazza Matteotti (Génova), Postcrosser, CC BY-SA 3.0" |
 | placeholder.jpg | fallback neutro | placehold.co | https://placehold.co | — | Generador de placeholders (uso libre) |
 
 ## Embeds (desde la fuente oficial — imagen real de Salis, sin rehospedar)
@@ -19,6 +17,7 @@ Cada activo embebido o descargado se registra aquí. Imágenes con licencia comp
 |---|---|---|---|---|
 | 01, 09 | Salis baila techno en el dj set de Charlotte de Witte, Plaza Matteotti | YouTube | https://www.youtube.com/watch?v=Uik5Rn_t8Zo | 2026-04-11 |
 | 06 | Publicación de victoria ("Abbiamo vinto…") | Instagram @silviasalis (oficial) | https://www.instagram.com/p/DKIR_jOtOgN/ | 2025-05 |
+| 07 | Perfil de Instagram (el retrato curado) | Instagram @silviasalis (oficial) | https://www.instagram.com/silviasalis/ | — |
 | 08 | Publicación personal de Salis | Instagram @silviasalis (oficial) | https://www.instagram.com/p/DKJ5nxys9zr/ | 2025 |
 | 10 | TikTok institucional de Salis | TikTok @silvia_salis_sindaca (oficial) | https://www.tiktok.com/@silvia_salis_sindaca | 2025– |
 | 11 | Foto de la polémica: Salis con los Manolo Blahnik (traje a rayas) | Instagram @silviasalis (oficial) | https://www.instagram.com/p/DW_-xd3DA6B/ | 2026-04 |

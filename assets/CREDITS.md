@@ -6,21 +6,22 @@ Cada activo embebido o descargado se registra aquí. Imágenes con licencia comp
 
 | Archivo | Escenas | Fuente / autor | URL | Fecha | Licencia / atribución |
 |---|---|---|---|---|---|
-| salis.jpg | 02, 05, 12, 14 | Rub86, vía Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Silvia_Salis_2025.jpg | 2025-03-15 | **CC BY 4.0** — "Silvia Salis (2025), Rub86, CC BY 4.0, Wikimedia Commons" |
-| salis2.png | 03, 13, 15 | "Italia", vía Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Silvia_Salis_(Feb_2026).png | 2026-02 | **CC BY 4.0** — "Silvia Salis (2026), Wikimedia Commons" (licencia declarada CC BY 4.0; revisión de Commons pendiente) |
+| salis.jpg | 05, 12, fallback de embeds | Rub86, vía Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Silvia_Salis_2025.jpg | 2025-03-15 | **CC BY 4.0** — "Silvia Salis (2025), Rub86, CC BY 4.0, Wikimedia Commons" |
 | meloni.jpg | 12 | Governo italiano (governo.it), vía Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Giorgia_Meloni_Official_2023.jpg | 2023 | **CC BY 3.0 IT** — "Giorgia Meloni, retrato oficial 2023, Governo italiano, CC BY 3.0 IT" |
-| placeholder.jpg | fallback neutro | placehold.co | https://placehold.co | — | Generador de placeholders (uso libre) |
+| placeholder.jpg | fallback neutro (01, 09) | placehold.co | https://placehold.co | — | Generador de placeholders (uso libre) |
 
 ## Embeds (desde la fuente oficial — imagen real de Salis, sin rehospedar)
 
 | Escena | Activo | Plataforma | URL | Fecha |
 |---|---|---|---|---|
-| 01, 09 | Salis baila techno en el dj set de Charlotte de Witte, Plaza Matteotti | YouTube | https://www.youtube.com/watch?v=Uik5Rn_t8Zo | 2026-04-11 |
-| 06 | Publicación de victoria ("Abbiamo vinto…") | Instagram @silviasalis (oficial) | https://www.instagram.com/p/DKIR_jOtOgN/ | 2025-05 |
+| 01, 09 | Salis baila techno en el dj set de Charlotte de Witte | YouTube | https://www.youtube.com/watch?v=Uik5Rn_t8Zo | 2026-04-11 |
+| 02, 15 | Publicación de Salis (sindaca de Génova) | Instagram @silviasalis (oficial) | https://www.instagram.com/p/DXCo41Ajcqq/ | 2025-2026 |
+| 03 | "Che serata! Grazie @charlottedewittemusic" (la rave) | Instagram @silviasalis (oficial) | https://www.instagram.com/p/DXBau1GjKGk/ | 2026-04 |
+| 06, 14 | Publicación de victoria ("Abbiamo vinto…") | Instagram @silviasalis (oficial) | https://www.instagram.com/p/DKIR_jOtOgN/ | 2025-05 |
 | 07 | Perfil de Instagram (el retrato curado) | Instagram @silviasalis (oficial) | https://www.instagram.com/silviasalis/ | — |
-| 08 | Publicación personal de Salis | Instagram @silviasalis (oficial) | https://www.instagram.com/p/DKJ5nxys9zr/ | 2025 |
+| 08, 13 | Publicación personal de Salis | Instagram @silviasalis (oficial) | https://www.instagram.com/p/DKJ5nxys9zr/ | 2025 |
 | 10 | TikTok institucional de Salis | TikTok @silvia_salis_sindaca (oficial) | https://www.tiktok.com/@silvia_salis_sindaca | 2025– |
-| 11 | Foto de la polémica: Salis con los Manolo Blahnik (traje a rayas) | Instagram @silviasalis (oficial) | https://www.instagram.com/p/DW_-xd3DA6B/ | 2026-04 |
+| 11 | Foto de la polémica: Salis con los Manolo Blahnik | Instagram @silviasalis (oficial) | https://www.instagram.com/p/DW_-xd3DA6B/ | 2026-04 |
 
 ## Citas de prensa / fuentes textuales (breves, atribuidas)
 

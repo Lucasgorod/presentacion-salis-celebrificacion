@@ -15,8 +15,8 @@ Cada activo embebido o descargado se registra aquí. Imágenes con licencia comp
 | Escena | Activo | Plataforma | URL | Fecha |
 |---|---|---|---|---|
 | 01, 09 | Salis baila techno en el dj set de Charlotte de Witte | YouTube | https://www.youtube.com/watch?v=Uik5Rn_t8Zo | 2026-04-11 |
-| 02, 15 | Publicación de Salis (sindaca de Génova) | Instagram @silviasalis (oficial) | https://www.instagram.com/p/DXCo41Ajcqq/ | 2025-2026 |
-| 06, 14 | Publicación de victoria ("Abbiamo vinto…") | Instagram @silviasalis (oficial) | https://www.instagram.com/p/DKIR_jOtOgN/ | 2025-05 |
+| 02 | Publicación de Salis (sindaca de Génova) | Instagram @silviasalis (oficial) | https://www.instagram.com/p/DXCo41Ajcqq/ | 2025-2026 |
+| 06 | Publicación de victoria ("Abbiamo vinto…") | Instagram @silviasalis (oficial) | https://www.instagram.com/p/DKIR_jOtOgN/ | 2025-05 |
 | 07 | Perfil de Instagram (el retrato curado) | Instagram @silviasalis (oficial) | https://www.instagram.com/silviasalis/ | — |
 | 08, 13 | Publicación personal de Salis | Instagram @silviasalis (oficial) | https://www.instagram.com/p/DKJ5nxys9zr/ | 2025 |
 | 10 | TikTok institucional de Salis | TikTok @silvia_salis_sindaca (oficial) | https://www.tiktok.com/@silvia_salis_sindaca | 2025– |

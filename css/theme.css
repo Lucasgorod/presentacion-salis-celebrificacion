@@ -1,0 +1,4 @@
+:root{ --bg-sober:#15151c; --ink:#f4f4f8; --accent:#ff2db8; }
+.reveal{ font-family:system-ui, Arial, sans-serif; }
+.reveal .slides section.scene{ text-align:left; }
+.s-title{ font-weight:800; letter-spacing:-.5px; }

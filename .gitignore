@@ -7,6 +7,9 @@
 # Notas privadas de trabajo
 Guion_Salis_Celebrificacion_v2_1.md
 
+# Tooling local (no publicar)
+.claude/
+
 # OS
 .DS_Store
 Thumbs.db

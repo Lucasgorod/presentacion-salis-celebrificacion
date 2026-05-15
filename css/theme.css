@@ -53,6 +53,11 @@
 
 /* Split sobrio↔caso (para escenas del núcleo con comparativa) */
 .s-split{display:grid;grid-template-columns:1.1fr 1fr;gap:32px;align-items:center}
+.s-split .s-quote{font-size:21px;margin-bottom:10px}
+.s-split .s-cite{margin-bottom:14px}
+.s-split .s-bullets{font-size:16px;line-height:1.55}
+.s-split .s-media{max-width:300px;margin-bottom:8px}
+.s-split .s-media img{height:264px;object-fit:cover}
 
 /* Fallback de embed (Task 11) */
 .embed-fallback{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;min-height:340px;background:#0c0c12;color:var(--ink-dim);text-align:center;padding:24px}

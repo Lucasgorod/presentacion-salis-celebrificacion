@@ -140,3 +140,16 @@ Registro: **S** = sobrio · **D** = detonante. Cada escena del núcleo lleva su 
 - Navegación en vivo fluida; export PDF funcional; fallbacks probados.
 - `CREDITS.md` completo; citas verificadas o marcadas como paráfrasis.
 - Desplegable como sitio estático en GitHub Pages sin pasos de build.
+
+---
+
+## Actualización (2026-05-15) — cambio de stack y rediseño
+
+Tras la primera implementación con reveal.js, la usuaria pidió: (a) **HTML/CSS/JS propio, sin reveal.js**; (b) mejorar la estética (la versión reveal quedó genérica/"de IA"); (c) eliminar la construcción antitética "X, no Y" de la prosa.
+
+Cambios aplicados, manteniendo storyboard, contenido y citas verificadas:
+- **Stack:** motor propio (`js/deck.js`): lienzo fijo 1280×720 escalado a la pantalla, navegación teclado/clic/fullscreen, hash por escena, fallback de embeds, animaciones como progressive enhancement (respeta `prefers-reduced-motion`).
+- **Dirección visual "Dossier":** revista política editorial. Bodoni Moda + Newsreader + IBM Plex Mono (self-hosted, offline), papel/tinta + un bermellón, grano, numerales fantasma, filetes. Escenas "detonante" como spreads a sangre en tinta invertida (sin neón ni gradientes).
+- **Prosa:** reescrita sin la antítesis "X, no Y" (las citas verbatim atribuidas se conservan tal cual).
+- **Plan B PDF:** ahora vía `@media print` (Ctrl+P), ya no `?print-pdf` de reveal.
+- Eliminado: `vendor/reveal`, `js/dichotomies.js`, fuente Inter.

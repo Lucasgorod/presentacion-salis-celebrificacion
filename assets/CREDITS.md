@@ -6,7 +6,7 @@ Cada activo embebido o descargado se registra aquí. Imágenes con licencia comp
 
 | Archivo | Escenas | Fuente / autor | URL | Fecha | Licencia / atribución |
 |---|---|---|---|---|---|
-| salis.jpg | 05, 12, fallback de embeds | Rub86, vía Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Silvia_Salis_2025.jpg | 2025-03-15 | **CC BY 4.0** — "Silvia Salis (2025), Rub86, CC BY 4.0, Wikimedia Commons" |
+| salis.jpg | 02, 05, 12, fallback de embeds | Rub86, vía Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Silvia_Salis_2025.jpg | 2025-03-15 | **CC BY 4.0** — "Silvia Salis (2025), Rub86, CC BY 4.0, Wikimedia Commons" |
 | meloni.jpg | 12 | Governo italiano (governo.it), vía Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Giorgia_Meloni_Official_2023.jpg | 2023 | **CC BY 3.0 IT** — "Giorgia Meloni, retrato oficial 2023, Governo italiano, CC BY 3.0 IT" |
 | placeholder.jpg | fallback neutro (01, 09) | placehold.co | https://placehold.co | — | Generador de placeholders (uso libre) |
 
@@ -15,7 +15,6 @@ Cada activo embebido o descargado se registra aquí. Imágenes con licencia comp
 | Escena | Activo | Plataforma | URL | Fecha |
 |---|---|---|---|---|
 | 01, 09 | Salis baila techno en el dj set de Charlotte de Witte | YouTube | https://www.youtube.com/watch?v=Uik5Rn_t8Zo | 2026-04-11 |
-| 02 | Publicación de Salis (sindaca de Génova) | Instagram @silviasalis (oficial) | https://www.instagram.com/p/DXCo41Ajcqq/ | 2025-2026 |
 | 06 | Publicación de victoria ("Abbiamo vinto…") | Instagram @silviasalis (oficial) | https://www.instagram.com/p/DKIR_jOtOgN/ | 2025-05 |
 | 07 | Perfil de Instagram (el retrato curado) | Instagram @silviasalis (oficial) | https://www.instagram.com/silviasalis/ | — |
 | 08, 13 | Publicación personal de Salis | Instagram @silviasalis (oficial) | https://www.instagram.com/p/DKJ5nxys9zr/ | 2025 |
